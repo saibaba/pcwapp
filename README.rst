@@ -54,5 +54,6 @@ See the sample django project in helloworld folder. Copy it and modify as needed
 Referenes
 =========
 
-1) http://code.google.com/p/rietveld/source/browse/settings.py
-2) http://code.google.com/p/rietveld/
+1) http://djangosnippets.org/snippets/261/
+2) https://docs.djangoproject.com/en/dev/topics/forms/?from=olddocs
+3) http://code.google.com/p/rietveld/
