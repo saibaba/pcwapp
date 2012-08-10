@@ -24,11 +24,13 @@ Use th following steps to run the restfulapi application locally:
   cd pcwapp
 
 
-3) Launch GAE development
+3) Launch GAE development, for example
 
 ::
 
-  dev_appserver.py .
+  dev_appserver.py -a 127.0.0.1 -p 9080 -d  .
+
+4) Point browser at: http://localhost:9080/helloworld/
 
 
 To deploy your own instance of the app to Google App Engine
