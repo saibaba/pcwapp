@@ -1,12 +1,12 @@
-=============================================
-Template to build django based web app on GAE
-=============================================
+=========================================================
+Template application to build django based web app on GAE
+=========================================================
 
 Running
 =======
 
-Running locally
----------------
+Running template app locally
+----------------------------
 
 Use th following steps to run the restfulapi application locally:
 
