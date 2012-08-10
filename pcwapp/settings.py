@@ -25,7 +25,8 @@ TEMPLATE_CONTEXT_PROCESSORS = (
 TEMPLATE_DEBUG = DEBUG
 
 TEMPLATE_DIRS = (
-    os.path.join(dirname, '../templates')
+    os.path.join(dirname, '../helloworld/templates'),
+    os.path.join(dirname, '../templates'),
 )
 
 TEMPLATE_LOADERS = (

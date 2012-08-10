@@ -1,12 +1,12 @@
 =========================================================
-Template application to build django based web app on GAE
+Skeleton application to build django based web app on GAE
 =========================================================
 
 Running
 =======
 
-Running template app locally
-----------------------------
+Running sample locally
+----------------------
 
 Use th following steps to run the restfulapi application locally:
 
@@ -48,7 +48,7 @@ To deploy your own instance of the app to Google App Engine
 Developing
 ----------
 
-See the sample django project in helloworld folder. Copy it and modify as needed.
+See the sample django in helloworld folder. Copy it and modify as needed.
 
 =========
 Referenes
@@ -57,3 +57,4 @@ Referenes
 1) http://djangosnippets.org/snippets/261/
 2) https://docs.djangoproject.com/en/dev/topics/forms/?from=olddocs
 3) http://code.google.com/p/rietveld/
+4) http://www.b-list.org/weblog/2006/sep/10/django-tips-laying-out-application/
